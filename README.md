@@ -1,2 +1,2 @@
 # Repositorio_clase
-Repositorio de prueba para practica de progra.
+Este es mi primer cambio realizado desde el navegador WEB de GitHub.
